@@ -6,7 +6,7 @@ This project is a solution to the [Loopstudios landing page challenge on Fronten
 
 ### Demo
 
-- [Live Demo]([https://your-live-site-url.com](https://chipper-torrone-74554c.netlify.app/))
+- [Live Demo]([[https://your-live-site-url.com](https://chipper-torrone-74554c.netlify.app/)](https://chipper-torrone-74554c.netlify.app/))
 
 ### Challenge
 
