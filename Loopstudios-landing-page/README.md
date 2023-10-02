@@ -22,6 +22,8 @@ The Loopstudios Landing Page challenge required to create a responsive landing p
 ### Screenshots
 
 Below you can see the design for different devices.
+![Loopstudios-responsive-tablet-resolution](https://github.com/Sab-Mos/Loopstudios-landing-page/assets/131381168/747759e3-4bcd-4f9a-96b5-13a59c59abe9)
+
 
 
 ### Built With
