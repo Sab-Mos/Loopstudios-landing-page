@@ -27,6 +27,8 @@ Below you can see the design for different devices.
 
 ![Loopstudios-img-5](https://github.com/Sab-Mos/Loopstudios-landing-page/assets/131381168/69015817-1e98-45d0-bdd1-5928d70c5fba)
 
+![Loopstudios-tablet-view](https://github.com/Sab-Mos/Loopstudios-landing-page/assets/131381168/f6f76f5e-f154-4ddd-b37e-f033cf60d4d6)
+
 
 
 
