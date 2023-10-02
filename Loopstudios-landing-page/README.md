@@ -23,8 +23,6 @@ The Loopstudios Landing Page challenge required to create a responsive landing p
 
 Below you can see the design for different devices.
 
-![Desktop Screenshot](./screenshot-desktop.jpg)
-![Mobile Screenshot](./screenshot-mobile.jpg)
 
 ### Built With
 
