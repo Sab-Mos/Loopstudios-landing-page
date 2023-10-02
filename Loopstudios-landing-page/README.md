@@ -1,3 +1,5 @@
+![Loopstudios-img-1](https://github.com/Sab-Mos/Loopstudios-landing-page/assets/131381168/5d29810d-2d76-4461-b109-bf3dfd5e15c3)
+
 # Loopstudios Landing Page
 
 This project is a solution to the [Loopstudios landing page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/loopstudios-landing-page-N88J5Onjw). Frontend Mentor challenges are designed to help improve coding skills by building realistic projects.
