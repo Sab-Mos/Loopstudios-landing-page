@@ -30,6 +30,7 @@ Below you can see the design for different devices.
 
 ![Loopstudios-mobile-view](https://github.com/Sab-Mos/Loopstudios-landing-page/assets/131381168/edd68b2b-ac8e-40f4-8fe4-3c4f8783166d)
 
+![fylo mobile](https://github.com/Sab-Mos/fylo-dark-them-landing-page/assets/131381168/a2943e65-ad07-4b06-a38e-8aa486610430)
 
 
 
